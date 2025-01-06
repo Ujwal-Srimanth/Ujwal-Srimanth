@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ujwal Srimanth</h1>
-<h3 align="center">I am passionate Full Stack Developer From India and Even Enthustatic about ML/DL</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<h3 align="center">I am passionate Full Stack Developer From India and Even Enthusiastic about ML/DL</h3>
+
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **nusvarma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[www.linkedin.com/in/ujwal-srimanth](https://linkedin.com/in/www.linkedin.com/in/ujwal-srimanth)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nadimpalli-ujwal-srimanth-varma-462443267/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ujwal-srimanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ujwal-srimanth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
